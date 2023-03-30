@@ -10,7 +10,11 @@ sequential in ascending order or the same as the previous digit so:
 is valid however:
 <br /> 
 113445566777
+<br /> 
 998876554321
+<br /> 
 112344556567
+<br /> 
 Are not.
+<br /> 
 What are the four prime numbers?
