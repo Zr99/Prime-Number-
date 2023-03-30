@@ -1,0 +1,15 @@
+/Users/metalformdev/C# sharp Folder/Multiplication/Multiplication/bin/Debug/net7.0/Multiplication
+/Users/metalformdev/C# sharp Folder/Multiplication/Multiplication/bin/Debug/net7.0/Multiplication.deps.json
+/Users/metalformdev/C# sharp Folder/Multiplication/Multiplication/bin/Debug/net7.0/Multiplication.runtimeconfig.json
+/Users/metalformdev/C# sharp Folder/Multiplication/Multiplication/bin/Debug/net7.0/Multiplication.dll
+/Users/metalformdev/C# sharp Folder/Multiplication/Multiplication/bin/Debug/net7.0/Multiplication.pdb
+/Users/metalformdev/C# sharp Folder/Multiplication/Multiplication/obj/Debug/net7.0/Multiplication.csproj.AssemblyReference.cache
+/Users/metalformdev/C# sharp Folder/Multiplication/Multiplication/obj/Debug/net7.0/Multiplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/metalformdev/C# sharp Folder/Multiplication/Multiplication/obj/Debug/net7.0/Multiplication.AssemblyInfoInputs.cache
+/Users/metalformdev/C# sharp Folder/Multiplication/Multiplication/obj/Debug/net7.0/Multiplication.AssemblyInfo.cs
+/Users/metalformdev/C# sharp Folder/Multiplication/Multiplication/obj/Debug/net7.0/Multiplication.csproj.CoreCompileInputs.cache
+/Users/metalformdev/C# sharp Folder/Multiplication/Multiplication/obj/Debug/net7.0/Multiplication.dll
+/Users/metalformdev/C# sharp Folder/Multiplication/Multiplication/obj/Debug/net7.0/refint/Multiplication.dll
+/Users/metalformdev/C# sharp Folder/Multiplication/Multiplication/obj/Debug/net7.0/Multiplication.pdb
+/Users/metalformdev/C# sharp Folder/Multiplication/Multiplication/obj/Debug/net7.0/Multiplication.genruntimeconfig.cache
+/Users/metalformdev/C# sharp Folder/Multiplication/Multiplication/obj/Debug/net7.0/ref/Multiplication.dll
